@@ -51,14 +51,14 @@ Join our community of developers creating universal apps.
 
 Screenshots of the app:
 
-## Splash Screen
+<kbd>## Splash Screen
 
-[Splash Screen]<img width="380" height="859" alt="image" src="https://github.com/user-attachments/assets/02433268-10f7-4dfa-831e-364b0d272da5" />
+<img width="380" height="859" alt="image" src="https://github.com/user-attachments/assets/02433268-10f7-4dfa-831e-364b0d272da5" />
 
 ## Sign In Screen
 
-[Sign In Screen]<img width="381" height="851" alt="image" src="https://github.com/user-attachments/assets/40d04a8f-5c61-468a-a7ee-359f91236a38" />
+<img width="381" height="851" alt="image" src="https://github.com/user-attachments/assets/40d04a8f-5c61-468a-a7ee-359f91236a38" /></kbd>
 
 ## Sign Up Screen
 
-[Sign Up Screen]<img width="369" height="835" alt="image" src="https://github.com/user-attachments/assets/0b839fb6-7140-40b6-a280-8174da762d4c" />
+<img width="369" height="835" alt="image" src="https://github.com/user-attachments/assets/0b839fb6-7140-40b6-a280-8174da762d4c" />
