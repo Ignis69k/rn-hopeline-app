@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to Hopeline Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -7,13 +7,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 1. Install dependencies
 
    ```bash
-   npm install
+   npm install or bun install
    ```
 
 2. Start the app
 
    ```bash
-   npx expo start
+   npx expo start or bunx expo start
    ```
 
 In the output, you'll find options to open the app in a
@@ -30,7 +30,7 @@ You can start developing by editing the files inside the **app** directory. This
 When you're ready, run:
 
 ```bash
-npm run reset-project
+npm run reset-project or bun run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
@@ -48,3 +48,17 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+Screenshots of the app:
+
+## Splash Screen
+
+![Splash Screen](/splash.png)
+
+## Sign In Screen
+
+![Sign In Screen](/signin.png)
+
+## Sign Up Screen
+
+![Sign Up Screen](/signup.png)
